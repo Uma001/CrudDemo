@@ -1,0 +1,8 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://localhost:5432/crud_demo_db
+    username: postgres
+    password: password
+    pool-size: 30
+
+
